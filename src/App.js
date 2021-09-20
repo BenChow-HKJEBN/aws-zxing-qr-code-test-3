@@ -54,7 +54,7 @@ export default function App() {
       <div id="test-area-qr-code-webcam" className={display}>
         <video></video>
       </div>
-      <button onClick={scanCode}>Scan</button>
+      <button onClick={scanCode}>Test Scan</button>
     </div>
   );
 }
